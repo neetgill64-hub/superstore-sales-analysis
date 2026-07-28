@@ -1,13 +1,26 @@
+# Superstore Sales Analysis Dashboard
 
 ## Project Overview
 This document outlines the major findings from the Superstore Sales Analysis project, providing actionable insights for business decision-making.
 
-## Tools Used
+## Dataset
 
+- Dataset: Superstore _Sales
+- Records: 1,000
+- Source: Kaggle
+
+  ## Project Objectives
+
+- Analyse overall sales performance.
+- Measure profitability.
+- Identify top-performing product lines.
+- Compare customer segments.
+- Build an interactive dashboard for business users.
+
+## Tools Used
 - Power BI
 - SQL
 - DAX
-- Excel
 - GitHub
 
 ## Dashboard KPIs
@@ -86,10 +99,8 @@ Data Visualisation
 DAX Measures
 Power BI Reporting
 
-Page 2 Overview – Detailed Sales Analysis
-Overview
-
-The Detailed Sales Analysis page provides an in-depth view of sales performance across different business dimensions. It enables users to explore trends, compare product performance, and identify key factors influencing revenue and profitability through interactive visualisations and filters.
+Page 2 Overview – Profit Analysis Dashboard
+Overview :The Detailed Sales Analysis page provides an in-depth view of sales performance across different business dimensions. It enables users to explore trends, compare product performance, and identify key factors influencing revenue and profitability through interactive visualisations and filters.
 
 Dashboard Objectives
 Analyse sales performance at a detailed level.
