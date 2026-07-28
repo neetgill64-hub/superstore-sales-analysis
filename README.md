@@ -1,8 +1,38 @@
-# superstore-sales-analysis
-Sales analysis project using SQL, Python, and Power BI.
 
- # Superstore Sales Analysis Dashboard
+## Project Overview
+This document outlines the major findings from the Superstore Sales Analysis project, providing actionable insights for business decision-making.
 
-Power BI Dashboard:
+## Tools Used
 
-https://app.powerbi.com/groups/me/reports/48e12281-b5fa-4dbf-9e81-abda7c9379a9?ctid=cc19e2fa-083c-4fa5-b521-6cfc2974e8a7&pbi_source=linkShare
+- Power BI
+- SQL
+- DAX
+- Excel
+- GitHub
+
+## Dashboard KPIs
+
+- Total Sales
+- Gross Income
+- Monthly Sales
+- Sales by Product Line
+- Sales by City
+
+## Skills Demonstrated
+
+- Data Cleaning
+- Data Modelling
+- DAX Measures
+- Dashboard Design
+- Business Insights
+
+## Dashboard
+
+![Dashboard](Images/dashboard.png)
+
+## Files
+
+- Power BI Report (.pbix)
+- Dataset (.csv)
+- SQL Queries
+- DAX Measures
