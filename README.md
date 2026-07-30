@@ -38,7 +38,7 @@ This document outlines the major findings from the Superstore Sales Analysis pro
 - Dashboard Design
 - Business Insights
 
-Page 1 Overview – Sales Performance Dashboard
+Dashboard 1 – Executive Sales Overview
 <img width="2736" height="1824" alt="image" src="https://github.com/user-attachments/assets/a5d340e5-b4cb-4d8c-a9be-de337f81f1da" />
 
 
@@ -99,7 +99,7 @@ Data Visualisation
 DAX Measures
 Power BI Reporting
 
-Page 2 Overview – Profit Analysis Dashboard
+Dashboard 2 – Profit & Performance Analysis
 
 <img width="2736" height="1824" alt="image" src="https://github.com/user-attachments/assets/ac57e0f4-930c-4736-b57a-fe66bf90ff9e" />
 
