@@ -158,3 +158,14 @@ Based on the January–March sales analysis, the following key insights were ide
 - Sales improved again in March, indicating business recovery.
 - Product demand varied by month, highlighting seasonal purchasing patterns.
 - These insights can support future marketing strategies, inventory planning, and business decision-making.
+
+## DAX Measures
+
+The Power BI dashboard uses DAX measures to calculate key business KPIs, including:
+
+- Total Sales
+- Total Profit
+- Total Orders
+- Average Order Value
+
+For the complete DAX formulas, see **dax_measures.md**.
