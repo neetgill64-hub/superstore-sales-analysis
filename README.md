@@ -41,6 +41,9 @@ This document outlines the major findings from the Superstore Sales Analysis pro
 
 Page 1 Overview – Sales Performance Dashboard
 
+<img width="2736" height="1824" alt="image" src="https://github.com/user-attachments/assets/ac57e0f4-930c-4736-b57a-fe66bf90ff9e" />
+
+
 The Sales Performance Dashboard provides an interactive overview of the company's sales performance by presenting key business metrics and visualizations. It is designed to help stakeholders monitor revenue, profitability, product performance, and geographic sales trends in a single view.
 
 Dashboard Objectives
@@ -98,6 +101,8 @@ Data Analysis
 Data Visualisation
 DAX Measures
 Power BI Reporting
+
+
 
 Page 2 Overview – Profit Analysis Dashboard
 Overview :The Detailed Sales Analysis page provides an in-depth view of sales performance across different business dimensions. It enables users to explore trends, compare product performance, and identify key factors influencing revenue and profitability through interactive visualisations and filters.
