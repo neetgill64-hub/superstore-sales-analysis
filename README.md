@@ -191,3 +191,32 @@ For the complete DAX formulas, see **dax_measures.md**.
 - Dashboard Design
 - Business Insights
 
+## SQL Analysis
+
+SQL was used to analyse the Superstore Sales dataset and answer key business questions before building the Power BI dashboard.
+
+### SQL Techniques Used
+
+- Aggregate Functions (`SUM`, `COUNT`, `AVG`)
+- Conditional Logic (`CASE WHEN`)
+- Window Functions (`RANK()`, `LEAD()`, `LAG()`, `SUM() OVER()`)
+- Common Table Expressions (CTEs)
+- Date Functions (`FORMAT_DATE`, `EXTRACT`)
+- Filtering and Grouping (`GROUP BY`, `HAVING`, `ORDER BY`)
+
+### Business Questions Answered
+
+The SQL analysis answered questions such as:
+
+- What is the total sales revenue?
+- What is the total gross income (profit)?
+- How many orders were placed?
+- Which sales belong to Low, Medium, and High value categories?
+- Which product lines generate the highest sales?
+- What is the average order value by product line?
+- How do monthly sales compare with the previous month?
+- Which product lines generated more than NZ$50,000 in sales?
+- How do sales rank within each product line?
+- What is the running total of monthly sales?
+
+The complete SQL queries are available in the **superstore_analysis.sql** file.
