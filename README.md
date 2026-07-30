@@ -20,7 +20,6 @@ This document outlines the major findings from the Superstore Sales Analysis pro
 ## Tools Used
 - Power BI
 - SQL
-- DAX
 - GitHub
 
 ## Dashboard KPIs
@@ -88,7 +87,6 @@ Enables comparison of regional sales performance.
 
 Tools Used
 Power BI
-DAX
 Data Modelling
 Data Visualisation
 Skills Demonstrated
