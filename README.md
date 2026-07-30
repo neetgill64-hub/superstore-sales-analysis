@@ -21,6 +21,27 @@ This document outlines the major findings from the Superstore Sales Analysis pro
 - Power BI
 - SQL
 - GitHub
+##Project Workflow
+
+  Kaggle Dataset
+        │
+        ▼
+SQL Data Cleaning
+        │
+        ▼
+SQL Business Analysis
+        │
+        ▼
+Power BI Data Modelling
+        │
+        ▼
+DAX Measures
+        │
+        ▼
+Interactive Dashboard
+        │
+        ▼
+Business Insights
 
 ## Dashboard KPIs
 
