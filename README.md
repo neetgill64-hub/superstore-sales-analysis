@@ -21,6 +21,7 @@ This document outlines the major findings from the Superstore Sales Analysis pro
 - Power BI
 - SQL
 - GitHub
+
 ##Project Workflow
 
   Kaggle Dataset
@@ -50,14 +51,6 @@ Business Insights
 - Monthly Sales
 - Sales by Product Line
 - Sales by City
-
-## Skills Demonstrated
-
-- Data Cleaning
-- Data Modelling
-- DAX Measures
-- Dashboard Design
-- Business Insights
 
 Dashboard 1 – Executive Sales Overview
 <img width="2736" height="1824" alt="image" src="https://github.com/user-attachments/assets/a5d340e5-b4cb-4d8c-a9be-de337f81f1da" />
@@ -188,5 +181,13 @@ The Power BI dashboard uses DAX measures to calculate key business KPIs, includi
 - Total Profit
 - Total Orders
 - Average Order Value
-
 For the complete DAX formulas, see **dax_measures.md**.
+
+## Skills Demonstrated
+
+- Data Cleaning
+- Data Modelling
+- DAX Measures
+- Dashboard Design
+- Business Insights
+
