@@ -101,7 +101,7 @@ Power BI Reporting
 
 Dashboard 2 – Profit & Performance Analysis
 
-<img width="2736" height="1824" alt="image" src="https://github.com/user-attachments/assets/ac57e0f4-930c-4736-b57a-fe66bf90ff9e" />
+<img width="2736" height="1824" alt="image" src="https://github.com/user-attachments/assets/f994b8f6-ff04-4d2d-852c-af05b3853d26" />
 
 Overview :The Detailed Sales Analysis page provides an in-depth view of sales performance across different business dimensions. It enables users to explore trends, compare product performance, and identify key factors influencing revenue and profitability through interactive visualisations and filters.
 
