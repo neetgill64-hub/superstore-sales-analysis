@@ -149,3 +149,31 @@ DAX Calculations
 Interactive Reporting
 Data-Driven Decision Making
 
+## Business Insights
+## Business Insights
+
+Based on the January–March sales analysis, the following key insights were identified:
+
+### Overall Sales Performance
+- **January** recorded the highest total sales at **NZ$116.29K**, followed by **March (NZ$109.46K)**, while **February (NZ$97.22K)** had the lowest sales.
+- Gross income followed a similar trend, with **January (NZ$5.54K)** generating the highest profit and **February (NZ$4.63K)** the lowest.
+
+### Regional Performance
+- **Mandalay** was the most consistent performing city, maintaining monthly sales above **NZ$34K** throughout the quarter.
+- **Yangon** maintained strong sales performance across all three months, demonstrating stable market demand.
+- **Naypyitaw** recorded the highest city sales in **January (NZ$40,434.68)**. Although sales declined in February, they recovered in March, showing positive momentum.
+
+### Product Line Performance
+- **Food & Beverage** achieved the highest sales in **February (NZ$20,000.36)**.
+- **Sports & Travel** was the best-performing category in **January (NZ$21,667.02)** and remained one of the strongest categories in **March (NZ$19,646.19)**.
+- **Home & Lifestyle** showed strong performance in **March (NZ$20,932.79)** after a weaker February.
+- **Electronic Accessories** maintained consistent sales throughout the quarter, with monthly sales between **NZ$17K–19K**.
+- **Fashion Accessories** experienced a gradual decline in sales from January to March.
+- **Health & Beauty** recovered in March after lower sales in February.
+
+### Key Findings
+- January was the strongest month for both sales and gross income.
+- February experienced a decline in sales across several product categories.
+- Sales improved again in March, indicating business recovery.
+- Product demand varied by month, highlighting seasonal purchasing patterns.
+- These insights can support future marketing strategies, inventory planning, and business decision-making.
