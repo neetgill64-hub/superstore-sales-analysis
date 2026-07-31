@@ -1,140 +1,143 @@
-##Project Overview
+# 📊 Superstore Sales Analysis Dashboard
 
-The Superstore Sales Analysis Dashboard is an end-to-end Business Intelligence project developed using SQL and Power BI. The project analyses sales transactions to uncover business insights related to revenue, profitability, product performance, customer segments, and regional sales trends.
+## Project Overview
+
+The **Superstore Sales Analysis Dashboard** is an end-to-end Business Intelligence project developed using **SQL** and **Power BI**. The project analyses sales transactions to uncover business insights related to revenue, profitability, product performance, customer segments, and regional sales trends.
 
 The objective is to demonstrate the complete data analytics workflow—from data cleaning and SQL analysis to interactive dashboard development and business reporting.
 
-##Dataset
-Dataset: Superstore Sales
-Source: Kaggle
-Records: 1,000 sales transactions
-Project Objectives
-Analyse overall sales performance.
-Measure business profitability.
-Identify top-performing product lines.
-Compare customer segments.
-Analyse monthly sales trends.
-Evaluate regional sales performance.
-Build an interactive Power BI dashboard for business users.
+---
 
-##Tools & Technologies
-Power BI
-SQL (Google BigQuery)
-GitHub
+## Dataset
 
-##Project Workflow
+* **Dataset:** Superstore Sales
+* **Source:** Kaggle
+* **Records:** 1,000 sales transactions
+
+---
+
+## Project Objectives
+
+* Analyse overall sales performance.
+* Measure business profitability.
+* Identify top-performing product lines.
+* Compare customer segments.
+* Analyse monthly sales trends.
+* Evaluate regional sales performance.
+* Build an interactive Power BI dashboard for business users.
+
+---
+
+## Tools & Technologies
+
+* Power BI
+* SQL (Google BigQuery)
+* GitHub
+
+---
+
+## Project Workflow
+
+```text
 Kaggle Dataset
-        │
-        ▼
+      │
+      ▼
 SQL Data Cleaning
-        │
-        ▼
+      │
+      ▼
 SQL Business Analysis
-        │
-        ▼
+      │
+      ▼
 Power BI Data Modelling
-        │
-        ▼
+      │
+      ▼
 DAX Measures
-        │
-        ▼
+      │
+      ▼
 Interactive Dashboard
-        │
-        ▼
+      │
+      ▼
 Business Insights
+```
+
+---
 
 ## Dashboard KPIs
 
 The dashboard includes the following key performance indicators (KPIs):
 
-Total Sales
-Total Profit (Gross Income)
-Total Orders
-Average Order Value
-Monthly Sales
-Sales by Product Line
-Sales by City
+* Total Sales
+* Total Profit (Gross Income)
+* Total Orders
+* Average Order Value
+* Monthly Sales
+* Sales by Product Line
+* Sales by City
 
-##Dashboard 1 – Executive Sales Overview
+---
 
-Dashboard 1 – Profit & Performance Analysis
+# 📈 Dashboard 1 – Executive Sales Overview
+
 <img width="2736" height="1824" alt="image" src="https://github.com/user-attachments/assets/a5d340e5-b4cb-4d8c-a9be-de337f81f1da" />
 
-
-##Overview
+## Overview
 
 The Executive Sales Overview dashboard provides a high-level summary of the organisation's sales performance. It enables decision-makers to quickly monitor revenue, profitability, product performance, and geographic sales trends through interactive visualisations.
 
-## Dashboard Objectives
-Monitor overall business performance.
-Track total sales and profitability.
-Compare monthly sales performance.
-Identify top-performing product lines.
-Analyse sales by city.
-Key Performance Indicators
-Total Sales
+### Dashboard Objectives
+
+* Monitor overall business performance.
+* Track total sales and profitability.
+* Compare monthly sales performance.
+* Identify top-performing product lines.
+* Analyse sales by city.
+
+### Key Performance Indicators
+
+#### Total Sales
 
 Displays total revenue generated from all sales transactions.
 
-Gross Income
+#### Gross Income
 
 Shows total profit earned during the reporting period.
 
-## Visualisations
-1 Sales by Product Line
+### Visualisations
+
+#### 1. Sales by Product Line
 
 Horizontal bar chart comparing total sales across product categories.
 
-2 Monthly Sales Trend
+#### 2. Monthly Sales Trend
 
 Column chart displaying monthly sales performance.
 
-3 Sales by City
+#### 3. Sales by City
 
 Area chart comparing revenue generated across different cities.
 
-## Business Insights
-Provides an executive-level overview of business performance.
-Highlights the highest-performing product categories.
-Identifies regional sales trends.
-Supports strategic decision-making through interactive reporting.
+### Business Insights
 
-1. Sales by Product Line
+* Provides an executive-level overview of business performance.
+* Highlights the highest-performing product categories.
+* Identifies regional sales trends.
+* Supports strategic decision-making through interactive reporting.
 
-Horizontal bar chart displaying total sales across product categories.
-Allows users to identify the highest and lowest performing product lines.
+### Tools Used
 
-2. Monthly Sales Trend
+* Power BI
+* Data Modelling
+* Data Visualisation
+* Dashboard Design
+* KPI Development
+* Interactive Reporting
+* Business Intelligence
+* DAX Measures
+* Power BI Reporting
 
-Column chart showing total sales by month.
-Highlights seasonal trends and monthly business performance.
+---
 
-3. Sales by City
-
-Area/line chart comparing total sales across different cities.
-Helps identify locations contributing the most to revenue.
-
-## Business Insights
-Provides a high-level summary of organisational sales performance.
-Identifies the most profitable product categories.
-Supports data-driven decision-making by highlighting sales trends.
-Enables comparison of regional sales performance.
-
-## Tools Used
-Power BI
-Data Modelling
-Data Visualisation
-Skills Demonstrated
-Dashboard Design
-KPI Development
-Interactive Reporting
-Business Intelligence
-Data Analysis
-Data Visualisation
-DAX Measures
-Power BI Reporting
-
-## Dashboard 2 – Profit & Performance Analysis
+# 📊 Dashboard 2 – Profit & Performance Analysis
 
 <img width="2736" height="1824" alt="image" src="https://github.com/user-attachments/assets/f994b8f6-ff04-4d2d-852c-af05b3853d26" />
 
@@ -142,118 +145,144 @@ Power BI Reporting
 
 The Profit & Performance Dashboard provides a detailed analysis of revenue and profitability across products, months, and locations. Interactive filters allow users to explore sales performance from multiple business perspectives.
 
-## Dashboard Objectives
-Analyse detailed sales performance.
-Compare revenue across product categories.
-Evaluate monthly sales trends.
-Measure profitability by product line.
-Support business decisions with interactive reporting.
+### Dashboard Objectives
 
-## Key Visualisations
-Sales Trend Analysis
+* Analyse detailed sales performance.
+* Compare revenue across product categories.
+* Evaluate monthly sales trends.
+* Measure profitability by product line.
+* Support business decisions with interactive reporting.
+
+### Key Visualisations
+
+#### Sales Trend Analysis
 
 Shows monthly sales trends to identify seasonal demand.
 
-Product Performance
+#### Product Performance
 
 Compares sales and profit across all product lines.
 
-Regional Sales Analysis
+#### Regional Sales Analysis
 
 Displays sales by city to identify the strongest-performing markets.
 
-Profit Analysis
+#### Profit Analysis
 
 Shows gross income generated by products and locations.
 
+---
+
 ## Business Insights
-Overall Sales Performance
-January recorded the highest sales (NZ$116.29K).
-March achieved NZ$109.46K in total sales.
-February recorded the lowest sales (NZ$97.22K).
 
-Gross Income
-January generated the highest gross income (NZ$5.54K).
-February recorded the lowest gross income (NZ$4.63K).
+### Overall Sales Performance
 
-Regional Performance
-Mandalay maintained consistent monthly sales above NZ$34K.
-Yangon demonstrated stable sales throughout the quarter.
-Naypyitaw achieved the highest city sales in January (NZ$40,434.68) and recovered strongly in March after a decline in February.
+* January recorded the highest sales (**NZ$116.29K**).
+* March achieved **NZ$109.46K** in total sales.
+* February recorded the lowest sales (**NZ$97.22K**).
 
-Product Line Performance
-Food & Beverage achieved the highest sales in February (NZ$20,000.36).
-Sports & Travel was the best-performing category in January (NZ$21,667.02) and remained strong in March.
-Home & Lifestyle experienced significant growth in March.
-Electronic Accessories maintained consistent monthly sales between NZ$17K–19K.
-Fashion Accessories showed a gradual decline across the quarter.
-Health & Beauty recovered in March after lower February sales.
+### Gross Income
 
-##Key Findings
-January was the strongest month for both sales and profitability.
-February experienced a noticeable decline in sales.
-Sales recovered during March, indicating improved business performance.
-Product demand varied across months, suggesting seasonal purchasing behaviour.
+* January generated the highest gross income (**NZ$5.54K**).
+* February recorded the lowest gross income (**NZ$4.63K**).
 
-## These insights can support:
+### Regional Performance
 
-Marketing strategy
-Inventory planning
-Product forecasting
-Business decision-making
-DAX Measures
+* **Mandalay** maintained consistent monthly sales above **NZ$34K**.
+* **Yangon** demonstrated stable sales throughout the quarter.
+* **Naypyitaw** achieved the highest city sales in January (**NZ$40,434.68**) and recovered strongly in March.
 
-##The Power BI dashboard uses DAX measures to calculate key business metrics.
+### Product Line Performance
 
-Measure	Description
-Total Sales	Calculates total revenue
-Total Profit	Calculates total gross income
-Total Orders	Counts total transactions
-Average Order Value	Calculates average revenue per order
+* Food & Beverage achieved the highest sales in February (**NZ$20,000.36**).
+* Sports & Travel was the best-performing category in January (**NZ$21,667.02**) and remained strong in March.
+* Home & Lifestyle experienced significant growth in March.
+* Electronic Accessories maintained consistent monthly sales between **NZ$17K–19K**.
+* Fashion Accessories showed a gradual decline throughout the quarter.
+* Health & Beauty recovered in March after lower February sales.
 
-The complete DAX formulas are available in dax_measures.md.
+---
+
+## Key Findings
+
+* January was the strongest month for both sales and profitability.
+* February experienced a noticeable decline in sales.
+* Sales recovered during March, indicating improved business performance.
+* Product demand varied across months, suggesting seasonal purchasing behaviour.
+
+These insights support:
+
+* Marketing strategy
+* Inventory planning
+* Product forecasting
+* Business decision-making
+
+---
+
+## DAX Measures
+
+The Power BI dashboard uses DAX measures to calculate key business metrics.
+
+| Measure             | Description                          |
+| ------------------- | ------------------------------------ |
+| Total Sales         | Calculates total revenue             |
+| Total Profit        | Calculates total gross income        |
+| Total Orders        | Counts total transactions            |
+| Average Order Value | Calculates average revenue per order |
+
+The complete DAX formulas are available in **dax_measures.md**.
+
+---
 
 ## SQL Analysis
 
 SQL was used to clean, transform, and analyse the Superstore Sales dataset before developing the Power BI dashboards.
 
-## SQL Techniques Used
-Aggregate Functions (SUM, COUNT, AVG)
-Conditional Logic (CASE WHEN)
-Window Functions (RANK, ROW_NUMBER, LEAD, LAG, SUM OVER)
-Common Table Expressions (CTEs)
-Date Functions (FORMAT_DATE, EXTRACT)
-Filtering & Grouping (GROUP BY, HAVING, ORDER BY)
-Business Questions Answered
+### SQL Techniques Used
 
-The SQL analysis addressed the following business questions:
+* Aggregate Functions (`SUM`, `COUNT`, `AVG`)
+* Conditional Logic (`CASE WHEN`)
+* Window Functions (`RANK()`, `ROW_NUMBER()`, `LEAD()`, `LAG()`, `SUM() OVER()`)
+* Common Table Expressions (CTEs)
+* Date Functions (`FORMAT_DATE()`, `EXTRACT()`)
+* Filtering and Grouping (`GROUP BY`, `HAVING`, `ORDER BY`)
 
-What is the total sales revenue?
-What is the total gross income?
-How many orders were placed?
-Which orders belong to Low, Medium, and High-value categories?
-Which product lines generate the highest sales?
-What is the average order value by product line?
-How do monthly sales compare with the previous month?
-Which product lines generated more than NZ$50,000 in sales?
-How do sales rank within each product line?
-What is the running total of monthly sales?
+### Business Questions Answered
 
-The complete SQL queries are available in superstore_analysis.sql.
+* What is the total sales revenue?
+* What is the total gross income?
+* How many orders were placed?
+* Which orders belong to Low, Medium, and High-value categories?
+* Which product lines generate the highest sales?
+* What is the average order value by product line?
+* How do monthly sales compare with the previous month?
+* Which product lines generated more than NZ$50,000 in sales?
+* How do sales rank within each product line?
+* What is the running total of monthly sales?
 
-Skills Demonstrated
-SQL Data Cleaning
-SQL Business Analysis
-Google BigQuery
-Power BI Data Modelling
-DAX Measures
-Interactive Dashboard Development
-KPI Design
-Business Intelligence
-Data Visualisation
-Business Insight Generation
-GitHub Documentation
-Repository Structure
+The complete SQL queries are available in **superstore_analysis.sql**.
+
+---
+
+## Skills Demonstrated
+
+* SQL Data Cleaning
+* SQL Business Analysis
+* Google BigQuery
+* Power BI Data Modelling
+* DAX Measures
+* Interactive Dashboard Development
+* KPI Design
+* Business Intelligence
+* Data Visualisation
+* Business Insight Generation
+* GitHub Documentation
+
+---
+
+## Repository Structure
+
+```text
 Superstore-Sales-Analysis/
 │
 ├── README.md
@@ -264,8 +293,15 @@ Superstore-Sales-Analysis/
 ├── Dashboard2.png
 └── dataset/
     └── Superstore_Sales.csv
+```
+
+---
+
 ## Conclusion
 
 This project demonstrates an end-to-end Business Intelligence workflow by transforming raw sales data into meaningful business insights using SQL and Power BI. Through data cleaning, SQL analysis, DAX calculations, and interactive dashboard design, the project identifies sales trends, profitability, and product performance across different regions and time periods.
 
-The dashboards enable stakeholders to monitor key performance indicators, identify high-performing products and cities, recognise seasonal sales patterns, and support informed business decisions. Overall, this project showcases practical skills in data analysis, data visualisation, business intelligence, and reporting, making it a strong portfolio project for Data Analyst and Business Intelligence roles.
+The dashboards enable stakeholders to monitor key performance indicators, identify high-performing products and cities, recognise seasonal sales patterns, and support informed business decisions.
+
+Overall, this project showcases practical skills in data analysis, SQL, Power BI, DAX, business intelligence, and data visualisation, making it a strong portfolio project for **Data Analyst**, **Business Intelligence Analyst**, and **Power BI Developer** roles.
+
